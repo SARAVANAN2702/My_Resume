@@ -1,0 +1,42 @@
+h2,h3{
+    background:#363933; 
+    color:white; 
+      
+}
+body{
+        padding:35px;    
+        width:900px;
+        height: 1200px;
+        left:14%;
+        right: 10%;
+        position:absolute;  
+        border:double;
+        top:20px;
+        bottom:50px;
+
+}
+
+h3{
+    position: sticky;
+}
+
+#tb{
+    height: 70px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 4;
+    padding: 2 2 2 2;
+    margin-left: 50px;
+}
+
+b{
+    background-color: red;
+    text-decoration: solid black;
+}
+         
+.profile{
+    text-align:left;
+    padding-left: 20px;
+   
+}
+
